@@ -7,12 +7,7 @@
 	font-family: Raleway, sans-serif;
 }
 
-body {
-	background-image: url('../assets/leaf.jpg');	
-    background-repeat: no-repeat;
-    background-size: cover;
 
-}
 
 .container {
 	display: flex;

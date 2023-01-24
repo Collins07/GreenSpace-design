@@ -259,3 +259,31 @@
 
 
 /* Toggle navbar */
+#drop{
+  border: 2px solid green;
+  margin-left: 5%;
+  min-width: 50px;
+  color: white;
+  background-color: green;
+  font-weight: bold;
+}
+#glass > a{
+  font-weight: bold;
+ color: black;
+}
+#glass :hover{
+  background-color: #119965;
+  font-weight: bold;
+  color: white;
+}
+#tree:hover{
+  color: gray;
+  background-color: white;
+  font-weight: bold;
+}
+#tree{
+  font-weight: bold;
+  color: gray;
+  text-decoration-style: 2px solid;
+  text-decoration: 2px underline;
+}

@@ -226,7 +226,7 @@
 
 /* Cards */
 #image1{
-  background-image: url('../assets/save5.jpg');
+  background-image: url('../assets/account.jpg');
   background-size: cover;
 
 }
@@ -252,8 +252,8 @@
 
 }
 #text1{
-  color: black;
-  font-size: 35px;
+  color: white;
+  font-size: 33px;
 }
 
 
